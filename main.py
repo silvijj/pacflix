@@ -1,1 +1,1 @@
-print("Halo ini di dalam document main.py edited")
+print("Halo ini di dalam document main.py edited di contributor 2")
