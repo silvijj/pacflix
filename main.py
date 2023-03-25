@@ -1,1 +1,1 @@
-print("Halo ini di dalam document main.py")
+print("Halo ini di dalam document main.py edited")
